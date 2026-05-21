@@ -1,10 +1,12 @@
-# 🚁 Pest Patrol
+<img width="1200" height="675" alt="Screenshot 2026-05-21 at 03 37 31" src="https://github.com/user-attachments/assets/5a503ed3-f2de-4552-95fd-5f30ce7cf13d" /># 🚁 Pest Patrol
 
 **AI-powered drone system for agricultural pest detection and plant health monitoring.**
 
 ---
 
 ## Overview
+<img width="1111" height="621" alt="image" src="https://github.com/user-attachments/assets/85c7faff-c258-4ed3-9154-b53d4f44e6d5" />
+
 
 Pest Patrol is a sustainability-focused project that puts machine learning in the sky. Drones fly over farmland, capture live aerial footage, and an on-board computer vision pipeline instantly classifies whether plants are healthy or under threat — giving farmers actionable insight before damage spreads.
 
@@ -40,6 +42,8 @@ Built at the intersection of drone engineering, computer vision, and deep learni
 | ⚡ **Real-Time Analysis** | Live visual data processed on the fly |
 | 🌱 **Sustainability Focus** | Reduces pesticide overuse by targeting problem areas precisely |
 
+<img width="1206" height="675" alt="image" src="https://github.com/user-attachments/assets/d0834818-166e-47b6-9323-21bede0cf842" />
+
 ---
 
 ## Tech Stack
@@ -56,6 +60,7 @@ Built at the intersection of drone engineering, computer vision, and deep learni
 - **MobileNetSSD** — lightweight object detection backbone
 - **CNN Architecture** — custom plant health classification model
 - **NumPy** — numerical processing
+<img width="1206" height="675" alt="image" src="https://github.com/user-attachments/assets/655eca9e-9144-4e78-8942-008a7e66b16b" />
 
 ---
 
@@ -72,6 +77,7 @@ Built at the intersection of drone engineering, computer vision, and deep learni
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+<img width="543" height="276" alt="image" src="https://github.com/user-attachments/assets/32fe9dc4-5e85-4116-a5a8-5167968a5e11" />
 
 ---
 
