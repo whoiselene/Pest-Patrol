@@ -1,4 +1,4 @@
-<img width="1200" height="675" alt="Screenshot 2026-05-21 at 03 37 31" src="https://github.com/user-attachments/assets/5a503ed3-f2de-4552-95fd-5f30ce7cf13d" /># 🚁 Pest Patrol
+# 🚁 Pest Patrol
 
 **AI-powered drone system for agricultural pest detection and plant health monitoring.**
 
@@ -42,7 +42,7 @@ Built at the intersection of drone engineering, computer vision, and deep learni
 | ⚡ **Real-Time Analysis** | Live visual data processed on the fly |
 | 🌱 **Sustainability Focus** | Reduces pesticide overuse by targeting problem areas precisely |
 
-<img width="1206" height="675" alt="image" src="https://github.com/user-attachments/assets/d0834818-166e-47b6-9323-21bede0cf842" />
+<img width="1200" height="675" alt="Screenshot 2026-05-21 at 03 37 31" src="https://github.com/user-attachments/assets/5a503ed3-f2de-4552-95fd-5f30ce7cf13d" />
 
 ---
 
