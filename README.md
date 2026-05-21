@@ -79,11 +79,13 @@ Built at the intersection of drone engineering, computer vision, and deep learni
 
 | | |
 |---|---|
-| 👤 **Archil Shonia** | |
-| 👤 **Ninia Jakhutashvili** | |
-| 👤 **Liza Davitashvili** | |
-| 👤 **Elene Samsiani** | |
-| 👤 **Nita Vasadze** | |
+| 👤 **Archil Shonia**  |
+| 👤 **Ninia Jakhutashvili**  |
+| 👤 **Liza Davitashvili**  |
+| 👤 **Elene Samsiani**  |
+| 👤 **Nita Vasadze**  |
+<img width="1319" height="662" alt="image" src="https://github.com/user-attachments/assets/6ae2cb60-3154-4c8b-8081-38aa9aba5778" />
+
 
 ---
 
