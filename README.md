@@ -19,7 +19,7 @@ Built at the intersection of drone engineering, computer vision, and deep learni
 ```
 1. Drone captures aerial footage
         ↓
-2. OpenCV detects plant regions in frame
+2. OpenCV detects plant regions in frames
         ↓
 3. ROI (Region of Interest) extracted
         ↓
