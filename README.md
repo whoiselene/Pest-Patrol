@@ -12,7 +12,7 @@ Pest Patrol is a sustainability-focused project that puts machine learning in th
 
 Built at the intersection of drone engineering, computer vision, and deep learning, Pest Patrol was developed to make precision agriculture accessible and reduce crop loss through early detection.
 
----
+----
 
 ## How It Works
 
