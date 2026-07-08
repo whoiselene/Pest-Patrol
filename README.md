@@ -8,7 +8,7 @@
 <img width="1111" height="621" alt="image" src="https://github.com/user-attachments/assets/85c7faff-c258-4ed3-9154-b53d4f44e6d5" />
 
 
-Pest Patrol is a sustainability-focused project that puts machine learning in the sky. Drones fly over farmland, capture live aerial footage, and an on-board computer vision pipeline instantly classifies whether plants are healthy or under threat — giving farmers actionable insight before damage spreads.
+Pest Patrol is a sustainability-focused project that puts machine learning in the sky. Drones fly over farmland, capture live aerial footage, and an on-board computer vision pipeline instantly classifies whether plants are healthy or under threat, giving farmers actionable insight before damage spreads.
 
 Built at the intersection of drone engineering, computer vision, and deep learning, Pest Patrol was developed to make precision agriculture accessible and reduce crop loss through early detection.
 
