@@ -14,7 +14,7 @@ Built at the intersection of drone engineering, computer vision, and deep learni
 
 ----
 
-## How It Works
+## How It Works?
 
 ```
 1. Drone captures aerial footage
