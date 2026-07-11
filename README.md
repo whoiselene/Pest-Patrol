@@ -1,4 +1,4 @@
-# 🚁 Pest Patrol
+# 🚁 Pest Patrol 🍃
 
 **AI-powered drone system for agricultural pest detection and plant health monitoring.**
 
